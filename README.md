@@ -1,5 +1,5 @@
 # Animus
-Animus by The Concious Collective
+By The Unconcious Collective
 
 - Extract the zip file
 - Run the exe file inside the extracted folder
